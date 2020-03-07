@@ -1667,6 +1667,7 @@
 	}
 
 	p {
+		text-indent: 5ch;
 		margin: 0 0 2em 0;
 	}
 
@@ -3266,3 +3267,11 @@
 				}
 
 		}
+
+		.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+	padding-bottom: 20px;
+}
